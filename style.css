@@ -1,0 +1,185 @@
+body{
+	display: flex;
+	margin-top: 7%;
+	background-color: #161616;
+
+}
+.main{
+	margin-left: 40%;
+}
+.icon{
+	/*z-index: -1px;*/
+	margin-left: 50px;
+	border: 2px solid black;
+	height: 15px;
+	width: 140px;
+	background-color: black;
+	border-radius: 0 0 20px 20px;
+}
+.container{
+	display: block;
+	/*z-index: 1;*/
+}
+.mobile{
+	position: absolute;
+	background-image: url(15655.jpg);
+	border-radius: 40px 40px 40px 40px;
+	border: 8px solid black;
+	height: 500px;
+	width: 250px;
+}
+.box1{
+	display: flex;
+	padding-left: 10px;
+}
+.icons1{
+	display: block;
+	/*border: 1px solid black;	*/
+	margin-top: 30px;
+	margin-left: 20px;
+	height: 45px;
+	
+}
+.icons2{
+	margin-top: 30px;
+	margin-left: 20px;
+	
+}
+.icons3{
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.icons4{
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.box2{
+	display: flex;
+	padding-left: 10px;
+}
+.icons5{
+	display: block;
+	/*border: 1px solid black;	*/
+	margin-top: 20px;
+	margin-left: 20px;
+	height: 45px;
+	
+}
+.icons6{
+	margin-top: 20px;
+	margin-left: 20px;
+	
+}
+.icons7{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.icons8{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.box3{
+	display: flex;
+	padding-left: 10px;
+}
+.icons9{
+	display: block;
+	margin-top: 20px;
+	margin-left: 20px;
+	height: 45px;
+	
+}
+.icons10{
+	margin-top: 20px;
+	margin-left: 20px;
+	
+}
+.icons11{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.icons12{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.box4{
+	display: flex;
+	padding-left: 10px;
+}
+.icons13{
+	display: block;
+	margin-top: 20px;
+	margin-left: 20px;
+	height: 45px;
+	
+}
+.icons14{
+	margin-top: 20px;
+	margin-left: 20px;
+	
+}
+.icons15{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.icons16{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.box5{
+	display: flex;
+	padding-left: 10px;
+}
+.icons17{
+	display: block;
+	margin-top: 20px;
+	margin-left: 20px;
+	height: 45px;
+	
+}
+.icons18{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.footer{
+	display: flex;	
+}
+.footer1{
+	position: absolute;
+	border-radius: 20px 20px 20px 20px;
+	margin-left: 10px;
+	width: 225px;
+	margin-top: 85px;
+	background-color: #f0edcc;
+	padding-right: 6px;
+	align-items: center;
+	height: 50px;
+	display: block;
+	opacity: 0.5;
+}
+.icons19{
+
+	z-index: 1;
+	margin-top: 92px;
+	margin-left: 30px;
+}
+.icons20{
+	z-index: 1;
+	margin-top: 92px;
+	margin-left: 20px;
+}
+.icons21{
+	z-index: 1;
+	margin-top: 92px;
+	margin-left: 20px;
+}
+.icons22{
+	z-index: 1;
+	margin-top: 92px;
+	margin-left: 20px;
+}
+
+
+
+
